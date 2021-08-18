@@ -3,7 +3,8 @@ Capture Page
 </h1>
 
 <div align="center" >
-<p>This is a capture page integrated with an email database system.<p/>
+  <p>This is a capture page integrated with an email database system.<p/>
+  
   <img src="./Animação.gif" alt="demo-web" height="425">
 </div>
 
